@@ -1,0 +1,7 @@
+C:\Users\ekt\source\repos\PatronesDisenio\bin\Debug\PatronesDisenio.exe.config
+C:\Users\ekt\source\repos\PatronesDisenio\bin\Debug\PatronesDisenio.exe
+C:\Users\ekt\source\repos\PatronesDisenio\bin\Debug\PatronesDisenio.pdb
+C:\Users\ekt\source\repos\PatronesDisenio\obj\Debug\PatronesDisenio.csprojAssemblyReference.cache
+C:\Users\ekt\source\repos\PatronesDisenio\obj\Debug\PatronesDisenio.csproj.CoreCompileInputs.cache
+C:\Users\ekt\source\repos\PatronesDisenio\obj\Debug\PatronesDisenio.exe
+C:\Users\ekt\source\repos\PatronesDisenio\obj\Debug\PatronesDisenio.pdb
